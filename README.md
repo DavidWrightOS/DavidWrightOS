@@ -1,5 +1,4 @@
-## Hi there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-## I'm David Wright ⏤ an iOS Developer.
+## Hi there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> &nbsp; I'm David Wright ⏤ an iOS Developer.
 
 ![age](https://img.shields.io/badge/age-31-brightgreen)
 ![living](https://img.shields.io/badge/living-usa-navy)
