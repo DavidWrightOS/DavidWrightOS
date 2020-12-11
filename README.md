@@ -1,19 +1,18 @@
 ## Hi there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> &nbsp; I'm David Wright ⏤ an iOS Developer.
 
-![age](https://img.shields.io/badge/age-31-brightgreen)
-![living](https://img.shields.io/badge/living-usa-navy)
-![focus](https://img.shields.io/badge/focus-iOS_SDK-blue)
-![language](https://img.shields.io/badge/language-swift-orange)
+![age](https://img.shields.io/badge/age-31-fc3963)
+![location](https://img.shields.io/badge/location-usa-ae47f9)
+![domain](https://img.shields.io/badge/domain-iOS_SDK-1d60ef)
+![language](https://img.shields.io/badge/language-swift-fa7443)
 ![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=windard.github.profile)
-
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- ❤️ &nbsp; I love exploring new technologies, frameworks, and UI designs
-- 🎓 &nbsp; Electrical Engineering, University of Delaware
-- 🎓 &nbsp; Business Administration, University of Delaware
+- ❤️ &nbsp; I love learning and exploring new technologies, frameworks, and UI designs
+- ✍️ &nbsp; I’m currently working on... [Resfeber](https://github.com/Lambda-School-Labs/LabsPT13-Resfeber-A-IOS): an app that allows travelers to research destinations and plan their upcoming trips
 - 🎓 &nbsp; Computer Science & iOS Development, Lambda School
-- ✍️ &nbsp; I’m currently working on... Resfeber: an iOS app that allows travelers to research destinations and plan their upcoming trips
+- 🎓 &nbsp; Business Administration, University of Delaware
+- 🎓 &nbsp; Electrical Engineering, University of Delaware
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -29,7 +28,7 @@
   ![MapKit](https://img.shields.io/badge/-MapKit-333333?style=flat&logo=mapkit)
   ![URLSession](https://img.shields.io/badge/-URLSession-333333?style=flat&logo=urlsession)
   ![GrandCentralDispatch](https://img.shields.io/badge/-Grand_Central_Dispatch-333333?style=flat&logo=grandcentraldispatch)
-  ![AVFoundation](https://img.shields.io/badge/-MapKit-333333?style=flat&logo=mapkit)
+  ![AVFoundation](https://img.shields.io/badge/-AVFoundation-333333?style=flat&logo=avfoundation)
 - 🛠 &nbsp;
   ![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -37,15 +36,14 @@
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidWrightOS&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidWrightOS&layout=compact" />
 </a>
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<a href="https://www.linkedin.com/in/davidwrightos/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Wright-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/DavidWrightOS"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@DavidWrightOS-blue?style=flat-square&logo=twitter"></a>
-<a href="mailto:davidtwright89@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-davidtwright89@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/davidwrightos/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Wright-0a66c2?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/DavidWrightOS"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@DavidWrightOS-1da1f2?style=flat-square&logo=twitter"></a>
+<a href="mailto:davidtwright89@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-davidtwright89@gmail.com-4285ea?style=flat-square&logo=gmail"></a>
 
 
 <!--
