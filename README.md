@@ -11,7 +11,7 @@
 
 - ❤️ &nbsp; I love learning and experimenting with new technologies, frameworks, and UI designs
 - ✍️ &nbsp; I’m currently working on [Resfeber](https://github.com/Lambda-School-Labs/LabsPT13-Resfeber-A-IOS): an app that allows travelers to research destinations and plan their upcoming trips
-- 🌱 &nbsp; I currently have a growing interest in app architecture and design patterns
+- 🌱 &nbsp; I have a growing interest in app architecture and design patterns
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
