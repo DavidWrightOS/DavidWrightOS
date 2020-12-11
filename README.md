@@ -19,21 +19,20 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🗣 &nbsp;
-  ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
-  ![Objective-C](https://img.shields.io/badge/-Objc-333333?style=flat&logo=c++)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow)
+  <a href="https://swift.org"><img src="https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift"/></a>
+  <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html"><img src="https://img.shields.io/badge/-Objective--C-333333?style=flat&logo=c++"/></a>
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow"/></a>
 - 🏗 &nbsp;
-  ![CocoaTouch](https://img.shields.io/badge/-Cocoa_Touch-333333?style=flat)
-  ![UIKit](https://img.shields.io/badge/-UIKit-333333?style=flat)
-  ![CoreData](https://img.shields.io/badge/-Core_Data-333333?style=flat)
-  ![CoreGraphics](https://img.shields.io/badge/-Core_Graphics-333333?style=flat)
-  ![MapKit](https://img.shields.io/badge/-MapKit-333333?style=flat)
-  ![URLSession](https://img.shields.io/badge/-URLSession-333333?style=flat)
-  ![GrandCentralDispatch](https://img.shields.io/badge/-Grand_Central_Dispatch-333333?style=flat)
-  ![AVFoundation](https://img.shields.io/badge/-AVFoundation-333333?style=flat)
+  <a href="https://developer.apple.com/documentation/uikit"><img src="https://img.shields.io/badge/-UIKit-333333?style=flat"/></a>
+  <a href="https://developer.apple.com/documentation/coredata"><img src="https://img.shields.io/badge/-Core_Data-333333?style=flat"/></a>
+  <a href="https://developer.apple.com/documentation/coregraphics"><img src="https://img.shields.io/badge/-Core_Graphics-333333?style=flat"/></a>
+  <a href="https://developer.apple.com/documentation/mapkit"><img src="https://img.shields.io/badge/-MapKit-333333?style=flat"/></a>
+  <a href="https://developer.apple.com/documentation/foundation/urlsession"><img src="https://img.shields.io/badge/-URLSession-333333?style=flat"/></a>
+  <a href="https://developer.apple.com/documentation/DISPATCH"><img src="https://img.shields.io/badge/-Grand_Central_Dispatch-333333?style=flat"/></a>
+  <a href="https://developer.apple.com/documentation/avfoundation"><img src="https://img.shields.io/badge/-AVFoundation-333333?style=flat"/></a>
 - 🛠 &nbsp;
-  ![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  <a href="https://developer.apple.com/xcode/"><img src="https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode"/></a>
+  <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/></a>
 
 
 <h3> ⚙️ &nbsp;GitHub Analytics </h3>
