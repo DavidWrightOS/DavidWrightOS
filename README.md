@@ -6,6 +6,12 @@
 ![language](https://img.shields.io/badge/language-swift-fa7443)
 ![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=windard.github.profile)
 
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidWrightOS&show_icons=true" />
+</a>
+
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - ❤️ &nbsp; I love learning and experimenting with new technologies, frameworks, and UI designs
@@ -13,6 +19,7 @@
 - 🎓 &nbsp; Computer Science & iOS Development, Lambda School
 - 🎓 &nbsp; Business Administration, University of Delaware
 - 🎓 &nbsp; Electrical Engineering, University of Delaware
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -32,11 +39,6 @@
 - 🛠 &nbsp;
   ![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidWrightOS&show_icons=true" />
-</a>
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
