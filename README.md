@@ -1,4 +1,4 @@
-## Hi there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> &nbsp; I'm David Wright ⏤ an iOS Developer.
+## Hi there! 👋🏼 &nbsp; I'm David Wright ⏤ an iOS Developer.
 
 ![age](https://img.shields.io/badge/age-31-brightgreen)
 ![location](https://img.shields.io/badge/location-usa-red)
@@ -35,8 +35,7 @@
 
 <h3> ⚙️ &nbsp;GitHub Analytics </h3>
 
-<a href="https://github.com/DavidWrightOS"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidWrightOS&show_icons=true" /></a>
-
+![David's github stats](https://github-readme-stats.vercel.app/api/?username=DavidWrightOS&show_icons=true&title_color=4d8bf5&icon_color=4d8bf5&text_color=9f9f9f&bg_color=0e1116)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
