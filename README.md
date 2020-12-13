@@ -1,10 +1,9 @@
 ## Hi there! 👋🏼 &nbsp; I'm David Wright ⏤ an iOS Developer.
 
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - ❤️ &nbsp; I love learning and experimenting with new technologies, frameworks, and UI designs
-- ✍️ &nbsp; I’m currently working on [Resfeber](https://github.com/Lambda-School-Labs/LabsPT13-Resfeber-A-IOS): an app that allows travelers to research destinations and plan their upcoming trips
+- ✍️ &nbsp; I’m currently working on **[Resfeber](https://github.com/Lambda-School-Labs/LabsPT13-Resfeber-A-IOS)**: an app that allows travelers to plan their upcoming trips
 - 🌱 &nbsp; I have a growing interest in app architecture and design patterns
 
 
@@ -27,7 +26,7 @@
   <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/></a>
 
 
-<h3> ⚙️ &nbsp;GitHub Analytics </h3>
+<h3> ⚙️ &nbsp;GitHub Analytics </h3> 
 
 &nbsp;&nbsp;&nbsp;![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=windard.github.profile)
 
@@ -36,6 +35,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 &nbsp;&nbsp;&nbsp;
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&link=https://www.linkedin.com/in/davidwrightos/)](https://www.linkedin.com/in/davidwrightos/) * 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-00acee?logo=twitter&logoColor=white&link=https://twitter.com/DavidWrightOS)](https://twitter.com/DavidWrightOS) * 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&link=https://www.linkedin.com/in/davidwrightos/)](https://www.linkedin.com/in/davidwrightos/)&nbsp;&nbsp;
+[![Twitter Badge](https://img.shields.io/badge/Twitter-00acee?logo=twitter&logoColor=white&link=https://twitter.com/DavidWrightOS)](https://twitter.com/DavidWrightOS)&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-DB4437?logo=gmail&logoColor=white&link=mailto:davidtwright89@gmail.com)](mailto:davidtwright89@gmail.com)
