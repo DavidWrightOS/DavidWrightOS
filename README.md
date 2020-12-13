@@ -1,11 +1,5 @@
 ## Hi there! 👋🏼 &nbsp; I'm David Wright ⏤ an iOS Developer.
 
-![age](https://img.shields.io/badge/age-31-brightgreen)
-![location](https://img.shields.io/badge/location-usa-red)
-![domain](https://img.shields.io/badge/domain-iOS_SDK-yellow)
-![language](https://img.shields.io/badge/language-swift-fa7443)
-![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=windard.github.profile)
-
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -35,10 +29,13 @@
 
 <h3> ⚙️ &nbsp;GitHub Analytics </h3>
 
-![David's github stats](https://github-readme-stats.vercel.app/api/?username=DavidWrightOS&show_icons=true&title_color=4d8bf5&icon_color=4d8bf5&text_color=9f9f9f&bg_color=0e1116)
+&nbsp;&nbsp;&nbsp;![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=windard.github.profile)
+
+&nbsp;&nbsp;&nbsp;![David's GitHub stats](https://github-readme-stats.vercel.app/api/?username=DavidWrightOS&show_icons=true&title_color=4d8bf5&icon_color=4d8bf5&text_color=9f9f9f&bg_color=0e1116)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<a href="https://www.linkedin.com/in/davidwrightos/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Wright-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/DavidWrightOS"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@DavidWrightOS-blue?style=flat-square&logo=twitter"></a>
-<a href="mailto:davidtwright89@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-davidtwright89@gmail.com-blue?style=flat-square&logo=gmail"></a>
+&nbsp;&nbsp;&nbsp;
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&link=https://www.linkedin.com/in/davidwrightos/)](https://www.linkedin.com/in/davidwrightos/) * 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-00acee?logo=twitter&logoColor=white&link=https://twitter.com/DavidWrightOS)](https://twitter.com/DavidWrightOS) * 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-DB4437?logo=gmail&logoColor=white&link=mailto:davidtwright89@gmail.com)](mailto:davidtwright89@gmail.com)
