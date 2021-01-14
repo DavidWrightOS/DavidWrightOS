@@ -40,7 +40,7 @@
 &nbsp;&nbsp;&nbsp;![David's GitHub stats](https://github-readme-stats.vercel.app/api/?username=DavidWrightOS&show_icons=true&title_color=4d8bf5&icon_color=4d8bf5&text_color=9f9f9f&bg_color=0e1116)
 --->
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Connect with Me! </h3>
 
 &nbsp;&nbsp;&nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&link=https://www.linkedin.com/in/davidwrightos/)](https://www.linkedin.com/in/davidwrightos/)&nbsp;&nbsp;
