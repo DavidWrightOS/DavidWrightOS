@@ -1,11 +1,11 @@
-## Hi there! 👋🏼 &nbsp; I'm David Wright
+## Hi! 👋🏼 &nbsp; I'm David Wright
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 👨🏻 &nbsp; I'm an iOS Developer 📱, husband 👫🏻, and dog dad 🐶
 - ❤️ &nbsp; I love learning and experimenting with new technologies, frameworks, and UI designs
 - ✍️ &nbsp; I’m currently working on an app called **[Resfeber](https://github.com/DavidWrightOS/Resfeber-labspt13)**. It allows travelers to plan their upcoming trips
-- 🌱 &nbsp; I'm currently interested in learning more about mobile application architecture
+- 🌱 &nbsp; I'm interested in learning more about application architecture
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
