@@ -40,7 +40,7 @@
 &nbsp;&nbsp;&nbsp;![David's GitHub stats](https://github-readme-stats.vercel.app/api/?username=DavidWrightOS&show_icons=true&title_color=4d8bf5&icon_color=4d8bf5&text_color=9f9f9f&bg_color=0e1116)
 --->
 
-<h3> 📱 &nbsp;Here are a few apps I've been working recently</h3>
+<h3> 📱 &nbsp;Here are a few of the apps I've been working recently</h3>
 
 | **[Resfeber](https://github.com/DavidWrightOS/Resfeber-labspt13)** | **[Hydrate](https://github.com/DavidWrightOS/Hydrate-iospt4)** | **[Game Of Life](https://github.com/DavidWrightOS/GameOfLife)** |
 | :---: | :---: | :---: |
