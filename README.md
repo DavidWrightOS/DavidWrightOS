@@ -40,6 +40,14 @@
 &nbsp;&nbsp;&nbsp;![David's GitHub stats](https://github-readme-stats.vercel.app/api/?username=DavidWrightOS&show_icons=true&title_color=4d8bf5&icon_color=4d8bf5&text_color=9f9f9f&bg_color=0e1116)
 --->
 
+<h3> 📱 &nbsp;Here are a few apps I've been working recently</h3>
+
+| **[Resfeber](https://github.com/DavidWrightOS/Resfeber-labspt13)** | **[Hydrate](https://github.com/DavidWrightOS/Hydrate-iospt4)** | **[Game Of Life](https://github.com/DavidWrightOS/GameOfLife)** |
+| :---: | :---: | :---: |
+| <a href="https://github.com/DavidWrightOS/Resfeber-labspt13"><img src="https://github.com/DavidWrightOS/Resfeber-labspt13/blob/main/Resources/AppIcon.png" width="80"/></a> | <a href="https://github.com/DavidWrightOS/Hydrate-iospt4"><img src="https://github.com/DavidWrightOS/Hydrate-iospt4/blob/master/Resources/Hydrate-AppIcon.png" width="80"/></a> | <a href="https://github.com/DavidWrightOS/GameOfLife"><img src="https://github.com/DavidWrightOS/GameOfLife/blob/master/resources/GameOfLife-AppIcon.png" width="80"/></a> |
+| Allows travelers to plan their upcoming trips and save Points of Interest on a map. | Allows users to track how much water they drink throughout the day. | Simulates cellular automata based on Conway’s Game of Life. |
+
+
 <h3> 🤝🏻 &nbsp;Connect with Me! </h3>
 
 &nbsp;&nbsp;&nbsp;
