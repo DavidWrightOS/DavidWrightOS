@@ -4,7 +4,7 @@
 
 - 👨🏻 &nbsp; I'm an iOS Developer 📱, husband 👫🏻, and dog dad 🐶
 - ❤️ &nbsp; I love learning and experimenting with new technologies, frameworks, and UI designs
-- ✍️ &nbsp; I’m currently working on an app called **[Resfeber](https://github.com/DavidWrightOS/Resfeber-labspt13)**. It allows travelers to plan their upcoming trips
+- ✍️ &nbsp; I’m currently working on an app called **[Hydrate](https://github.com/DavidWrightOS/Hydrate)**. It allows users to track their daily water intake
 - 🌱 &nbsp; I'm interested in learning more about application architecture
 
 
@@ -42,10 +42,10 @@
 
 <h3> 📱 &nbsp;Here are a few of the apps I've been working recently</h3>
 
-| **[Resfeber](https://github.com/DavidWrightOS/Resfeber-labspt13)** | **[Hydrate](https://github.com/DavidWrightOS/Hydrate)** | **[Game Of Life](https://github.com/DavidWrightOS/GameOfLife)** |
+| **[Hydrate](https://github.com/DavidWrightOS/Hydrate)** | **[Resfeber](https://github.com/DavidWrightOS/Resfeber-labspt13)** | **[Game Of Life](https://github.com/DavidWrightOS/GameOfLife)** |
 | :---: | :---: | :---: |
-| <a href="https://github.com/DavidWrightOS/Resfeber-labspt13"><img src="https://github.com/DavidWrightOS/Resfeber-labspt13/blob/main/Resources/AppIcon.png" width="80"/></a> | <a href="https://github.com/DavidWrightOS/Hydrate"><img src="https://github.com/DavidWrightOS/Hydrate/blob/master/resources/Hydrate-AppIcon.png" width="80"/></a> | <a href="https://github.com/DavidWrightOS/GameOfLife"><img src="https://github.com/DavidWrightOS/GameOfLife/blob/master/resources/GameOfLife-AppIcon.png" width="80"/></a> |
-| Allows travelers to plan their upcoming trips and save Points of Interest on a map. | Allows users to track how much water they drink throughout the day. | Simulates cellular automata based on Conway’s Game of Life. |
+| <a href="https://github.com/DavidWrightOS/Hydrate"><img src="https://github.com/DavidWrightOS/Hydrate/blob/master/resources/Hydrate-AppIcon.png" width="80"/></a> | <a href="https://github.com/DavidWrightOS/Resfeber-labspt13"><img src="https://github.com/DavidWrightOS/Resfeber-labspt13/blob/main/Resources/AppIcon.png" width="80"/></a> | <a href="https://github.com/DavidWrightOS/GameOfLife"><img src="https://github.com/DavidWrightOS/GameOfLife/blob/master/resources/GameOfLife-AppIcon.png" width="80"/></a> |
+| Allows users to track how much water they drink throughout the day. | Allows travelers to plan their upcoming trips and save Points of Interest on a map. | Simulates cellular automata based on Conway’s Game of Life. |
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me! </h3>
