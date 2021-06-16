@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 👨🏻 &nbsp; I'm an iOS Developer 📱, husband 👫🏻, and dog dad 🐶
+- 💼 &nbsp; I work as an iOS Software Engineer at [Butterfly Network](https://www.butterflynetwork.com) 🦋
 - ❤️ &nbsp; I love learning and experimenting with new technologies, frameworks, and UI designs
-- ✍️ &nbsp; I’m currently working on an app called **[Hydrate](https://github.com/DavidWrightOS/Hydrate)**. It allows users to track their daily water intake
-- 🌱 &nbsp; I'm interested in learning more about application architecture
+- 🌱 &nbsp; I'm always interested in learning new app architectures, and I'm currently learning The Composable Architecture (TCA)
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -40,7 +40,7 @@
 &nbsp;&nbsp;&nbsp;![David's GitHub stats](https://github-readme-stats.vercel.app/api/?username=DavidWrightOS&show_icons=true&title_color=4d8bf5&icon_color=4d8bf5&text_color=9f9f9f&bg_color=0e1116)
 --->
 
-<h3> 📱 &nbsp;Here are a few of the apps I've been working recently</h3>
+<h3> 📱 &nbsp;Here's a few of the apps I've been working on recently</h3>
 
 | **[Hydrate](https://github.com/DavidWrightOS/Hydrate)** | **[Resfeber](https://github.com/DavidWrightOS/Resfeber-labspt13)** | **[Game Of Life](https://github.com/DavidWrightOS/GameOfLife)** |
 | :---: | :---: | :---: |
