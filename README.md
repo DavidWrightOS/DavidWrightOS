@@ -1,14 +1,13 @@
-## Hi! 👋🏼 &nbsp; I'm David Wright
+## Hi! 👋🏼 &nbsp; I'm David 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 👨🏻 &nbsp; I'm an iOS Developer 📱, husband 👫🏻, and dog dad 🐶
-- 💼 &nbsp; I work as an iOS Software Engineer at [Butterfly Network](https://www.butterflynetwork.com) 🦋
-- ❤️ &nbsp; I love learning and experimenting with new technologies, frameworks, and UI designs
-- 🌱 &nbsp; I'm currently learning RxSwift and The Composable Architecture (TCA)
+- 💼 &nbsp; I'm an iOS Software Engineer at [Butterfly Network](https://www.butterflynetwork.com) 🦋
+- ❤️ &nbsp; I love developing apps and focusing on all the minute details that make an app simple, intuitive, and enjoayble to use.
+- 🌱 &nbsp; I'm always learning new things, and I'm currently learning RxSwift and The Composable Architecture (TCA).
+- 🧘‍♂️ &nbsp; In addition to programming, I have a strong interest in philosophy, psychology, and what it means to live an examined life.
 
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;My Tech Stack</h3>
 
 - 🗣 &nbsp;
   <a href="https://swift.org"><img src="https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift"/></a>
@@ -40,7 +39,7 @@
 &nbsp;&nbsp;&nbsp;![David's GitHub stats](https://github-readme-stats.vercel.app/api/?username=DavidWrightOS&show_icons=true&title_color=4d8bf5&icon_color=4d8bf5&text_color=9f9f9f&bg_color=0e1116)
 --->
 
-<h3> 📱 &nbsp;Here are some of the apps I developed prior to joining Butterfly Network</h3>
+<h3> 📱 &nbsp;Here are some of the apps I was working on prior to joining Butterfly Network</h3>
 
 | **[Hydrate](https://github.com/DavidWrightOS/Hydrate)** | **[Resfeber](https://github.com/DavidWrightOS/Resfeber-labspt13)** | **[Game Of Life](https://github.com/DavidWrightOS/GameOfLife)** |
 | :---: | :---: | :---: |
