@@ -1,11 +1,11 @@
-## Hi! 👋🏼 &nbsp; I'm David 
+## Hi! 👋🏻 &nbsp;I'm David 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; I'm an iOS Software Engineer at [Butterfly Network](https://www.butterflynetwork.com) 🦋
-- ❤️ &nbsp; I love developing apps and focusing on all the minute details that make an app simple, intuitive, and enjoayble to use.
-- 🌱 &nbsp; I'm always learning new things, and I'm currently learning RxSwift and The Composable Architecture (TCA).
-- 🧘‍♂️ &nbsp; In addition to programming, I have a strong interest in philosophy, psychology, and what it means to live an examined life.
+- 💼 &nbsp; I work as an iOS Software Engineer at [Butterfly Network](https://www.butterflynetwork.com) 🦋
+- ❤️ &nbsp; I love developing apps that can make our lives easier and help us navigate this increasingly complex world.
+- 🌱 &nbsp; I consider myself a permanent student, always learning new things. I'm currently learning RxSwift and The Composable Architecture (TCA).
+- 🧘‍♂️ &nbsp; In addition to programming, I have strong interests in philosophy, psychology, and what it means to live an examined life.
 
 <h3> 🛠 &nbsp;My Tech Stack</h3>
 
