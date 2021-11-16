@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; I work as an iOS Software Engineer at [Butterfly Network](https://www.butterflynetwork.com) 🦋
-- ❤️ &nbsp; I love developing apps that can make our lives easier and help us navigate this increasingly complex world.
-- 🌱 &nbsp; I consider myself a permanent student, always learning new things. I'm currently learning RxSwift and The Composable Architecture (TCA).
-- 🧘‍♂️ &nbsp; In addition to programming, I have strong interests in philosophy, psychology, and what it means to live an examined life.
+- 💼 &nbsp; I am an iOS Software Engineer at [Butterfly Network](https://www.butterflynetwork.com) 🦋
+- ❤️ &nbsp; I love developing apps that leverage technology to make our lives better, and to help us navigate this increasingly complex world.
+- 🌱 &nbsp; I consider myself a lifelong student, always eager to learn new things. Currently, I'm learning RxSwift and The Composable Architecture (TCA).
+- 🧘🏻‍♂️ &nbsp; In addition to programming, I am interested in philosophy, psychology, and exploring what it means to live an examined life.
 
 <h3> 🛠 &nbsp;My Tech Stack</h3>
 
@@ -39,12 +39,12 @@
 &nbsp;&nbsp;&nbsp;![David's GitHub stats](https://github-readme-stats.vercel.app/api/?username=DavidWrightOS&show_icons=true&title_color=4d8bf5&icon_color=4d8bf5&text_color=9f9f9f&bg_color=0e1116)
 --->
 
-<h3> 📱 &nbsp;Here are some of the apps I was working on prior to joining Butterfly Network</h3>
+<h3> 📱 &nbsp;Here are some of the apps I worked on prior to joining Butterfly Network</h3>
 
 | **[Hydrate](https://github.com/DavidWrightOS/Hydrate)** | **[Resfeber](https://github.com/DavidWrightOS/Resfeber-labspt13)** | **[Game Of Life](https://github.com/DavidWrightOS/GameOfLife)** |
 | :---: | :---: | :---: |
 | <a href="https://github.com/DavidWrightOS/Hydrate"><img src="https://github.com/DavidWrightOS/Hydrate/blob/master/resources/Hydrate-AppIcon.png" width="80"/></a> | <a href="https://github.com/DavidWrightOS/Resfeber-labspt13"><img src="https://github.com/DavidWrightOS/Resfeber-labspt13/blob/main/Resources/AppIcon.png" width="80"/></a> | <a href="https://github.com/DavidWrightOS/GameOfLife"><img src="https://github.com/DavidWrightOS/GameOfLife/blob/master/resources/GameOfLife-AppIcon.png" width="80"/></a> |
-| Allows users to track how much water they drink throughout the day. | Allows travelers to plan their upcoming trips and save Points of Interest on a map. | Simulates cellular automata based on Conway’s Game of Life. |
+| Allows users to track how much water they drink throughout the day. | Allows travelers to plan their upcoming trips and save Points of Interest on a map. | Simulates cellular automata based on "Conway’s Game of Life." |
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me! </h3>
