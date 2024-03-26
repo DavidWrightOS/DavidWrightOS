@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; I am an iOS Software Engineer at [Butterfly Network](https://www.butterflynetwork.com) 🦋
+- 💼 &nbsp; I am a Senior iOS Software Engineer at [Butterfly Network](https://www.butterflynetwork.com) 🦋
 - ❤️ &nbsp; I love developing apps that leverage technology to make our lives better, and to help us navigate this increasingly complex world.
 - 🌱 &nbsp; I consider myself a lifelong student, always eager to learn new things. Currently, I'm learning RxSwift and The Composable Architecture (TCA).
 - 🧘🏻‍♂️ &nbsp; In addition to programming, I am interested in philosophy, psychology, and exploring what it means to live an examined life.
