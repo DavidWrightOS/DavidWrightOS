@@ -10,6 +10,7 @@
 
 - 🗣 &nbsp;
   <a href="https://swift.org"><img src="https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift"/></a>
+  <a href="https://developer.apple.com/documentation/swiftui/"><img src="https://img.shields.io/badge/-SwiftUI-333333?style=flat&logo=swift"/></a>
   <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html"><img src="https://img.shields.io/badge/-Objective--C-333333?style=flat&logo=c++"/></a>
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow"/></a>
 - 🏗 &nbsp;
@@ -26,9 +27,14 @@
   <a href="https://github.com/carekit-apple/CareKit#carekitui-"><img src="https://img.shields.io/badge/-CareKitUI-333333?style=flat"/></a>
   <a href="https://developer.apple.com/documentation/xctest"><img src="https://img.shields.io/badge/-XCTest-333333?style=flat"/></a>
   <a href="https://developer.apple.com/documentation/avfoundation"><img src="https://img.shields.io/badge/-AVFoundation-333333?style=flat"/></a>
+- 🏛️ &nbsp;
+  <a href="https://github.com/pointfreeco/swift-composable-architecture"><img src="https://img.shields.io/badge/-TCA-333333?style=flat"/></a>
+  <a href="https://en.m.wikipedia.org/wiki/Model–view–controller"><img src="https://img.shields.io/badge/-MVC-333333?style=flat"/></a>
+  <a href="https://en.m.wikipedia.org/wiki/Model–view–viewmodel"><img src="https://img.shields.io/badge/-MVVM-333333?style=flat"/></a>
 - 🛠 &nbsp;
   <a href="https://developer.apple.com/xcode/"><img src="https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode"/></a>
   <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/></a>
+
 
 <!---
 <h3> ⚙️ &nbsp;GitHub Analytics </h3> 
