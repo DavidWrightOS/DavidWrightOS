@@ -4,7 +4,7 @@
 
 - 💼 &nbsp; I'm an iOS Software Engineer at [Butterfly Network](https://www.butterflynetwork.com) 🦋
 - ❤️ &nbsp; I love the full stack experience of developing mobile apps, from managing the data, to implementing the business logic, to designing and building the user interface.
-- 🌱 &nbsp; I consider myself a permanent student. I'm always eager to learn new things, and discovering better ways to do old things.
+- 🌱 &nbsp; I consider myself a life-long student. I'm always eager to learn new things, and discover better ways to do old things.
 
 <h3> 🛠 &nbsp;My Tech Stack</h3>
 
