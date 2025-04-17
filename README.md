@@ -2,19 +2,19 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; I'm an iOS Software Engineer at [Butterfly Network](https://www.butterflynetwork.com) 🦋
-- ❤️ &nbsp; I love the full stack experience of developing mobile apps, from managing the data, to implementing the business logic, to designing and building the user interface.
+- 💼 &nbsp; I'm an iOS Engineer at [Butterfly Network](https://www.butterflynetwork.com) 🦋
+- ❤️ &nbsp; I love the full stack experience of developing mobile apps: from managing the data, to designing and building the user interface, to implementing the business logic.
 - 🌱 &nbsp; I consider myself a life-long student. I'm always eager to learn new things, and discover better ways to do old things.
 
 <h3> 🛠 &nbsp;My Tech Stack</h3>
 
 - 🗣 &nbsp;
   <a href="https://swift.org"><img src="https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift"/></a>
-  <a href="https://developer.apple.com/documentation/swiftui/"><img src="https://img.shields.io/badge/-SwiftUI-333333?style=flat&logo=swift"/></a>
   <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html"><img src="https://img.shields.io/badge/-Objective--C-333333?style=flat&logo=c++"/></a>
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow"/></a>
 - 🏗 &nbsp;
   <a href="https://developer.apple.com/documentation/uikit"><img src="https://img.shields.io/badge/-UIKit-333333?style=flat"/></a>
+  <a href="https://developer.apple.com/documentation/swiftui/"><img src="https://img.shields.io/badge/-SwiftUI-333333?style=flat"/></a>
   <a href="https://developer.apple.com/library/archive/documentation/ToolsLanguages/Conceptual/Xcode_Overview/UsingInterfaceBuilder.html"><img src="https://img.shields.io/badge/-Interface_Builder-333333?style=flat"/></a>
   <a href="https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/ProgrammaticallyCreatingConstraints.html"><img src="https://img.shields.io/badge/-Programmatic_Constraints-333333?style=flat"/></a>
   <a href="https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/index.html"><img src="https://img.shields.io/badge/-Auto_Layout-333333?style=flat"/></a>
