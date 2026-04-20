@@ -1,5 +1,5 @@
-## Hi! 👋🏻 &nbsp;I'm David 
-
+## Hi! I'm David, an iOS engineer. 
+<!---
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💼 &nbsp; I'm an iOS Engineer at [Butterfly Network](https://www.butterflynetwork.com) 🦋
@@ -36,7 +36,6 @@
   <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/></a>
 
 
-<!---
 <h3> ⚙️ &nbsp;GitHub Analytics </h3> 
 
 &nbsp;&nbsp;&nbsp;![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=windard.github.profile)
@@ -44,7 +43,7 @@
 &nbsp;&nbsp;&nbsp;![David's GitHub stats](https://github-readme-stats.vercel.app/api/?username=DavidWrightOS&show_icons=true&title_color=4d8bf5&icon_color=4d8bf5&text_color=9f9f9f&bg_color=0e1116)
 --->
 
-<h3> 📱 &nbsp;Here are some of the apps I worked on prior to joining Butterfly Network</h3>
+#### Here are some of the project apps I built before I started building iOS apps professionally.
 
 | **[Hydrate](https://github.com/DavidWrightOS/Hydrate)** | **[Resfeber](https://github.com/DavidWrightOS/Resfeber-labspt13)** | **[Game Of Life](https://github.com/DavidWrightOS/GameOfLife)** |
 | :---: | :---: | :---: |
